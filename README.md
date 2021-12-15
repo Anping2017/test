@@ -36,12 +36,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [ju-fa.md](ji-chu/ju-fa.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

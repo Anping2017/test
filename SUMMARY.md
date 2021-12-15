@@ -2,12 +2,6 @@
 
 * [英语语法](README.md)
 
-## Guides
-
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
-
 ## 基础
 
 * [句法](ji-chu/ju-fa.md)
@@ -26,9 +20,3 @@
     * [复杂句](ju-fa/ju-zi-jie-gou/an-fu-za-du/fu-za-ju.md)
 * [句子成分](ju-fa/ju-zi-cheng-fen/README.md)
   * [主语](ju-fa/ju-zi-cheng-fen/zhu-yu.md)
-* [For Support](ju-fa/for-support/README.md)
-  * [Intercom Integration](ju-fa/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
