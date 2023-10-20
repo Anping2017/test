@@ -1,23 +1,10 @@
-<?php
-// comment
+header("content-type:text/html;charset=uft-8");
 
-$a = 1;
-echo $a;
+$task = [
+    'title' => 'finish work',
+    'due' => 'doday',
+    'assign_at' => 'alan',
+    'completed' => false
+    ];
 
-function abc(){
-    echo 'hello';
-
-
-}
-
-abc();
-
-
-
-class aaa 
-{
-    var $var1;
-    
-}
-
-?>
+require "index.view.php"
